@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "WGW",
+    "   "
+  ],
+  "key": {
+    "W": {"item": "minecraft:dark_oak_planks"},
+    "G": {"item": "minecraft:glass_pane"}
+  },
+  "result": {
+    "item": "windowsmod:dark_oak_window_block"
+  }
+}

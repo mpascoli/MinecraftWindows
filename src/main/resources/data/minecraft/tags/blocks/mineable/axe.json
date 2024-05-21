@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "windowsmod:acacia_window_block",
+    "windowsmod:bamboo_window_block",
+    "windowsmod:birch_window_block",
+    "windowsmod:cherry_window_block",
+    "windowsmod:crimson_window_block",
+    "windowsmod:dark_oak_window_block",
+    "windowsmod:jungle_window_block",
+    "windowsmod:mangrove_window_block",
+    "windowsmod:oak_window_block",
+    "windowsmod:spruce_window_block",
+    "windowsmod:warped_window_block"
+  ]
+}

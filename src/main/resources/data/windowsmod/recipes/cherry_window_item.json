@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "WGW",
+    "   "
+  ],
+  "key": {
+    "W": {"item": "minecraft:cherry_planks"},
+    "G": {"item": "minecraft:glass_pane"}
+  },
+  "result": {
+    "item": "windowsmod:cherry_window_block"
+  }
+}
