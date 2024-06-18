@@ -2,6 +2,6 @@
 
 
 # MinecraftWindows
-Window blocks for Minecraft
+Window blocks for Minecraft<br>
 This mod adds one window for each wood type. The windows can be opened or closed by hand or with redstone.
 
